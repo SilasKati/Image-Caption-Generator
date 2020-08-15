@@ -1,0 +1,75 @@
+1.jpg#0	A couple stand near the bank of the river .
+1.jpg#1	The two people stand by a body of water and in front of bushes .
+1.jpg#2	Two people are hugging each other near a pond .
+1.jpg#3	Two people are standing by the water .
+1.jpg#4	Two people are standing together on the edge of the water on the grass .
+2.jpg#0	A brown horse and a blonde girl in a black shirt are staring at the fire in a barrel .
+2.jpg#1	A girl and her horse stand by a fire .
+2.jpg#2	A girl holding a horse 's lead behind a fire .
+2.jpg#3	A man , a girl and two horses are near a contained fire .
+2.jpg#4	Two people and two horses watching a fire .
+3.jpg#0	Children sit and watch the fish moving in the pond .
+3.jpg#1	People stare at the fish in the pool .
+3.jpg#2	Several people are standing near a fish pond .
+3.jpg#3	Some children are watching the fish in a pool .
+3.jpg#4	There are several people and children looking at the goldfish in the water which has a blue tiled floor .
+4.jpg#0	A fisherman fishes at the bank of a foggy river .
+4.jpg#1	A man fishes by a tree in the morning mist .
+4.jpg#2	A man fishes under a large tree .
+4.jpg#3	A man fishing near a large tree early in the morning .
+4.jpg#4	A man is fishing in a foggy lake .
+5.jpg#0	A kayaker kayaks through the water .
+5.jpg#1	A person kayaking in the ocean .
+5.jpg#2	A person kayaks in the middle of the ocean early in the morning .
+5.jpg#3	A person rows a boat over a large body of water .
+5.jpg#4	A person in a boat rowing with a paddle in hand .
+6.jpg#0	A beagle and a golden retriever wrestling in the grass .
+6.jpg#1	Two dogs are wrestling in the grass .
+6.jpg#2	Two puppies are playing in the green grass .
+6.jpg#3	Two puppies playing around in the grass .
+6.jpg#4	Two puppies fight in the grass .
+7.jpg#0	A car is navigating along a rocky hill .
+7.jpg#1	A jeep is being driven on some rocks .
+7.jpg#2	A red jeep hangs from the edge of a rocky cliff as a girl looks at it .
+7.jpg#3	A red truck is driving over a rocky surface .
+7.jpg#4	A woman stands next to a red SUV that has run off into a ditch .
+8.jpg#0	A few dogs are swimming in a pond .
+8.jpg#1	A group of dogs in water are playing with toys and balls .
+8.jpg#2	A group of dogs are playing in a large pool .
+8.jpg#3	Many dogs are swimming and playing in a fountain in a public park .
+8.jpg#4	Several dogs are swimming in a pool and two black dogs are playing tug of war with a toy .
+9.jpg#0	Silhouette of two people sitting on a dock at sunset .
+9.jpg#1	Two people are sitting on a wooden dock on a lake at sunset .
+9.jpg#2	Two people sit on a dock with a sunset in the background .
+9.jpg#3	Two people sit on the pier together and look out at the ocean .
+9.jpg#4	Two people sitting on a dock under a lamp post with clouds in the sky beyond them .
+10.jpg#0	A man and a dog are sitting on a park bench with several people walking down the path that runs alongside it .
+10.jpg#1	A man and a dog on a park bench in the foreground , with a group of walking people in the distance .
+10.jpg#2	A man sits on a bench in the park with a dog , while others walk nearby .
+10.jpg#3	People sit on a park bench while others jog on a path .
+10.jpg#4	The man is sitting with his dog on a bench in a park .
+11.jpg#0	A couple watches a boat against a skyline .
+11.jpg#1	A man and woman sit on a bench , watching a boat go by .
+11.jpg#2	The sun is setting while a man and woman watch a boat go by .
+11.jpg#3	Two people sit on a bench and watch a boat on the water .
+11.jpg#4	Two people are watching a motor boat go past .
+12.jpg#0	A brown dog is sprayed with water .
+12.jpg#1	A dog is being squirted with water in the face outdoors .
+12.jpg#2	A dog stands on his hind feet and catches a stream of water .
+12.jpg#3	A dog is jumping up catch the water jet being squirted .
+12.jpg#4	A tan coloured , male dog is jumping up to get a drink of water from a spraying bottle .
+13.jpg#0	A boy in yellow t-shirt is riding a scooter on the street .
+13.jpg#1	A boy is on a scooter .
+13.jpg#2	A boy wearing a helmet rides a scooter in a suburban neighborhood .
+13.jpg#3	A child on a scooter is jumping the curb .
+13.jpg#4	A young boy wearing an orange helmet riding a scooter .
+14.jpg#0	A soccer player in blue is chasing after the player in black and white .
+14.jpg#1	The girl in the white strip is falling down as the girl in the blue tries to reach the soccer ball .
+14.jpg#2	The girls are playing soccer .
+14.jpg#3	Two women in soccer uniforms playing soccer .
+14.jpg#4	Two young women on different teams are playing soccer on a field .
+15.jpg#0	A trecker in the mountains using his hiking stick to point at a glacier .
+15.jpg#1	A trecker points to the snow-capped mountains as he stands on a rocky plain .
+15.jpg#2	A hiker is pointing towards the mountains .
+15.jpg#3	A hiker poses for a picture in front of stunning mountains and clouds .
+15.jpg#4	A man with a green bag is using his pole to point to snowcapped mountains .
